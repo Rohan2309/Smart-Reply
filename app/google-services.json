@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "926220056238",
+    "firebase_url": "https://unfair-application.firebaseio.com",
+    "project_id": "unfair-application",
+    "storage_bucket": "unfair-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926220056238:android:42533d8e1adb85ef",
+        "android_client_info": {
+          "package_name": "com.github.rotolonico.firebasesmartreply"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926220056238-gir4qaq5qqft9thqqcnjhiqcis44s6io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF-Pl40cWboY54pSiMpfwB3tU3Xhqam70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926220056238-gir4qaq5qqft9thqqcnjhiqcis44s6io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926220056238:android:99d282d6f017810e",
+        "android_client_info": {
+          "package_name": "com.github.rotolonico.firebasesmartreplytutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926220056238-gir4qaq5qqft9thqqcnjhiqcis44s6io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF-Pl40cWboY54pSiMpfwB3tU3Xhqam70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926220056238-gir4qaq5qqft9thqqcnjhiqcis44s6io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
